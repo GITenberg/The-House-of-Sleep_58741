@@ -1,0 +1,29 @@
+_repo: The-House-of-Sleep_58741
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Bartlett, Paul Alexander
+    birthdate: 1909
+    deathdate: 1990
+    gutenberg_agent_id: '40002'
+    url: http://www.gutenberg.org/2009/agents/40002
+creator:
+  author:
+    agent_name: Bartlett, Elizabeth
+    birthdate: 1911
+    deathdate: 1994
+    gutenberg_agent_id: '49768'
+    url: http://www.gutenberg.org/2009/agents/49768
+description: ''
+gutenberg_issued: '2019-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58741'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- GITenberg
+title: The House of Sleep
+url: http://www.gutenberg.org/ebooks/58741
